@@ -26,6 +26,6 @@
   },
   "dependencies": {
     "deep-diff": "^0.3.3",
-    "react-addons-shallow-compare": "^0.14.8"
+    "react-addons-shallow-compare": "^0.14.8 || ^15.0.1"
   }
 }
